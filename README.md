@@ -28,9 +28,9 @@ Trajectoire du robot en 2D <br>
 Sécurité : <br>
 Détection de collision via Lidar
 
-📊 Résultats Attendus
-Navigation autonome vers une cible définie
-Évitement d'obstacles intelligent
+📊 Résultats Attendus <b>
+Navigation autonome vers une cible définie <br>
+Évitement d'obstacles intelligent <br>
 Fichiers CSV historisant les états/apprentissages
 
 
