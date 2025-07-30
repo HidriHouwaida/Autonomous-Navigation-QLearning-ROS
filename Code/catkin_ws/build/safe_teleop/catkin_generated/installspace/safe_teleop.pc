@@ -1,0 +1,8 @@
+prefix=/home/hidri/mémoire/catkin_ws/install
+
+Name: safe_teleop
+Description: Description of safe_teleop
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
