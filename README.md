@@ -24,6 +24,7 @@ Adaptation dynamique aux obstacles <br>
 Visualisation : <br>
 Graphiques des récompenses cumulées
 Trajectoire du robot en 2D <br>
+
 Sécurité : <br>
 Détection de collision via Lidar
 
