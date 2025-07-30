@@ -30,7 +30,7 @@ Navigation autonome vers une cible définie
 Fichiers CSV historisant les états/apprentissages
 
 
-📝 Fichiers Importants
+
 ## 📝 Fichiers Importants
 
 | Fichier                | Description                                                                 |
