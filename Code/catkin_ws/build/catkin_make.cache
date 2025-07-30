@@ -1,0 +1,2 @@
+minilab_demo_hardware_remote:minilab_demo_simulation:minilab_model:minilab_navigation:minilab_simulation:minilab_teleop:safe_teleop:scripts
+-DCATKIN_DEVEL_PREFIX=/home/hidri/mémoire/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hidri/mémoire/catkin_ws/install -G Unix Makefiles
