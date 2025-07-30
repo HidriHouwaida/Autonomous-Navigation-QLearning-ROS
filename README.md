@@ -17,8 +17,9 @@ Ce projet implémente un système de navigation autonome basé sur le **Q-learni
   pip install numpy pandas matplotlib rospy
 
 🧠 Fonctionnalités Clés
-Apprentissage en temps réel : Adaptation dynamique aux obstacles
 
+Apprentissage en temps réel : 
+Adaptation dynamique aux obstacles
 Visualisation :
 Graphiques des récompenses cumulées
 Trajectoire du robot en 2D
