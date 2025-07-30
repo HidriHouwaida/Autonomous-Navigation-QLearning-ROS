@@ -20,10 +20,12 @@ Ce projet implémente un système de navigation autonome basé sur le **Q-learni
 
 Apprentissage en temps réel : <br>
 Adaptation dynamique aux obstacles <br>
+
 Visualisation : <br>
 Graphiques des récompenses cumulées
 Trajectoire du robot en 2D
-Sécurité : Détection de collision via Lidar
+Sécurité : <br>
+Détection de collision via Lidar
 
 📊 Résultats Attendus
 Navigation autonome vers une cible définie
